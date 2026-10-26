@@ -1,4 +1,5 @@
-# Employee_Attrition
+# Salary Prediction Using Machine Learning
+
 ## Project Overview
 
 This project explores salary prediction using supervised machine learning regression algorithms. It uses job-related attributes such as job type, education level, field of study, industry, years of experience, and distance from a metropolis to estimate salary.
